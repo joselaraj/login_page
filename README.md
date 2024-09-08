@@ -14,3 +14,5 @@ In order to use the customtkinter library you must install it in your terminal b
 <br> 
 --> pip install customtkiner 
 
+# Documentation 
+https://customtkinter.tomschimansky.com/documentation/
